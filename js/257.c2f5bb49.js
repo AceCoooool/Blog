@@ -1,0 +1,1 @@
+(self.webpackChunkblog=self.webpackChunkblog||[]).push([[257],{48257:e=>{e.exports="Write docs happily now.\n\nIf there is any problem, welcome give issue [there](https://github.com/MuYunyun/create-react-doc/issues).\n\n\n\n$a=b+c$\n$$\na=b+c\n$$\n"}}]);
