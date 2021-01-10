@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "crd-templates": "^0.2.21"
+  }
+}
