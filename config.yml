@@ -5,7 +5,7 @@ title: Ace's Notebook
 
 # Menu dir
 ## you can also set detailed dir, such as BasicSkill/css
-menu: LeetCode, MLF_MLT
+menu: LeetCode,MLF_MLT
 ## set init open menu keys
 menuOpenKeys: 
 
